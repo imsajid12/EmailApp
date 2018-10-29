@@ -1,2 +1,2 @@
 # EmailApp
-Email Generator
+A basic Java Program that generates Email.
